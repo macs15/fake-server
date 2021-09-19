@@ -1,0 +1,116 @@
+{
+  "cursos": [
+    {
+      "id": "python",
+      "nombre": "Python desde cero",
+      "author": "Pablo España",
+      "descripcion": "Aprende los fundamentos de uno de los lenguajes más importantes de la actualidad y crea un administrador de contraseñas.",
+      "precio": 23,
+      "disponible": false,
+      "imagen": "https://edteam-media.s3.amazonaws.com/courses/medium/85d3d7e4-19db-4cff-a4cb-cbead813b6b5.png"
+    },
+    {
+      "nombre": "Arduino desde cero",
+      "descripcion": "Aprende a usar la plataforma de desarrollo de hardware libre más usada de los sistemas embebidos y automatiza tus proyectos electrónicos.",
+      "precio": 29,
+      "imagen": "https://edteam-media.s3.amazonaws.com/courses/medium/1bada4e8-4bab-4be8-8f2e-83e285515187.png",
+      "id": "arduino",
+      "author": "Andres Nino",
+      "disponible": false,
+      "poster": "http://localhost:3001/cursos/arduino"
+    },
+    {
+      "nombre": "Crea y sube tu primera app a Google Play",
+      "descripcion": "Rick y Morty serán los protagonistas de tu propia app en Android Nativo que, además, podrás subir a Google Play.",
+      "precio": 51,
+      "imagen": "https://edteam-media.s3.amazonaws.com/courses/medium/63d63045-f4e4-4f49-8f67-5859e9d3048e.png",
+      "id": "app-google-play",
+      "author": "Maximiliano Burgos",
+      "disponible": true,
+      "poster": "http://localhost:3000/cursos/app-google-play"
+    },
+    {
+      "id": "web",
+      "nombre": "La ruta del desarrollador web",
+      "author": "Alvaro Felipe",
+      "descripcion": "Aprende todos los roles y rutas que existen para ser un desarrollador web profesional en 2021.",
+      "precio": 0,
+      "disponible": true,
+      "imagen": "https://edteam-media.s3.amazonaws.com/courses/medium/e7fbb7f9-773c-426a-bbb5-14276a37af33.png"
+    },
+    {
+      "id": "unity",
+      "nombre": "Unity desde cero",
+      "author": "Darwin Palma",
+      "descripcion": "Domina la mejor herramienta de desarrollo de videojuegos en tiempo real y crea tu primer videojuego multiplataforma.",
+      "precio": 16,
+      "disponible": true,
+      "imagen": "https://edteam-media.s3.amazonaws.com/courses/medium/35d81cae-b9b2-4fbd-9329-8bd20e09ef9f.png"
+    },
+    {
+      "id": "slack-signalr",
+      "nombre": "Crea tu propio Slack con SignalR",
+      "author": "Miguel Teheran",
+      "descripcion": "En este taller construirás una sala de chat con React.js y .NET Core desde 0, conectando backend con frontend y luego haciendo que se actualice en tiempo real usando SignalR.",
+      "precio": 28,
+      "disponible": true,
+      "imagen": "https://edteam-media.s3.amazonaws.com/courses/medium/5afd9bc4-46f7-4326-9e9f-fe1a024be305.png"
+    },
+    {
+      "id": "aws",
+      "nombre": "Fundamentos de AWS",
+      "author": "Gerardo Castro",
+      "descripcion": "Conviértete en un Arquitecto Cloud dominando el Cloud Provider líder por +10 años consecutivos.",
+      "precio": 40,
+      "disponible": true,
+      "imagen": "https://edteam-media.s3.amazonaws.com/courses/medium/608331fa-c0c6-4f7c-9ad7-470903923179.jpg"
+    },
+    {
+      "id": "asana",
+      "nombre": "Productividad y trabajo en equipo con Asana",
+      "author": "Alvaro Felipe",
+      "descripcion": "Organiza y supervisa el trabajo y objetivos de equipos de todo tamaño desde cualquier lugar del mundo",
+      "precio": 42,
+      "disponible": true,
+      "imagen": "https://edteam-media.s3.amazonaws.com/courses/medium/f02fc743-189f-4f00-a1af-1716961d5a36.png"
+    },
+    {
+      "id": "scratch",
+      "nombre": "Programación para niños con Scratch",
+      "author": "Marina Charris",
+      "descripcion": "Ingresa al maravilloso mundo de la programación y desarrolla habilidades para el futuro.",
+      "precio": 28,
+      "disponible": true,
+      "imagen": "https://edteam-media.s3.amazonaws.com/courses/medium/a1a1984b-d7c7-4fdd-b176-6647819d3d2e.png"
+    },
+    {
+      "id": "svelte",
+      "nombre": "Svelte desde cero",
+      "author": "Diego Adrian Barra Paredes",
+      "descripcion": "Desarrolla tus apps con la librería más reciente que utiliza un enfoque distinto al momento de crear interfaces de usuario.",
+      "precio": 16,
+      "disponible": true,
+      "imagen": "https://edteam-media.s3.amazonaws.com/courses/medium/6af6a692-a841-453a-80ed-e9ecbbcf7f7f.png"
+    },
+    {
+      "nombre": "Spring desde cero",
+      "descripcion": "Domina los conceptos y funcionalidades básicas del framework más usado en Java y desarrolla servicios web de manera rápida y eficaz.",
+      "precio": 14,
+      "imagen": "https://edteam-media.s3.amazonaws.com/courses/medium/6cbc514c-1e04-4bf4-8beb-fa595f363d9d.png",
+      "id": "spring",
+      "author": "Lucas Moyano",
+      "disponible": false,
+      "poster": "http://localhost:3001/cursos/spring"
+    },
+    {
+      "nombre": "Server side render con Go",
+      "descripcion": "Domina el SSR con las herramientas que te ofrece Go, mejora el SEO y la carga de tus sitios web.",
+      "precio": 16,
+      "imagen": "https://edteam-media.s3.amazonaws.com/courses/medium/e737f2e3-92b3-400e-8d82-1b19e0277012.png",
+      "id": "go-ssr",
+      "author": "Alexys Lozada",
+      "disponible": false,
+      "poster": "http://localhost:3001/cursos/go-ssr"
+    }
+  ]
+}
