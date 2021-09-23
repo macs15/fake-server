@@ -112,5 +112,77 @@
       "disponible": false,
       "poster": "http://localhost:3001/cursos/go-ssr"
     }
+  ],
+  "products": [
+    {
+      "cod": 1,
+      "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
+      "category": "Eletrônico",
+      "provider_cost": 1500,
+      "in_stock": 500
+    },
+    {
+      "cod": 2,
+      "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
+      "category": "Eletrodoméstico",
+      "provider_cost": 100,
+      "in_stock": 1000
+    },
+    {
+      "cod": 3,
+      "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
+      "category": "móvel",
+      "provider_cost": 750,
+      "in_stock": 100
+    },
+    {
+      "cod": 4,
+      "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
+      "category": "Eletrônico",
+      "provider_cost": 1500,
+      "in_stock": 3000
+    },
+    {
+      "cod": 5,
+      "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
+      "category": "Eletrônico",
+      "provider_cost": 7500,
+      "in_stock": 50
+    },
+    {
+      "cod": 6,
+      "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
+      "category": "Eletrodoméstico",
+      "provider_cost": 500,
+      "in_stock": 2000
+    },
+    {
+      "cod": 7,
+      "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
+      "category": "móvel",
+      "provider_cost": 750,
+      "in_stock": 200
+    },
+    {
+      "cod": 8,
+      "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
+      "category": "Eletrônico",
+      "provider_cost": 1500,
+      "in_stock": 500
+    },
+    {
+      "cod": 9,
+      "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
+      "category": "Eletrodoméstico",
+      "provider_cost": 6000,
+      "in_stock": 15
+    },
+    {
+      "cod": 10,
+      "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
+      "category": "móvel",
+      "provider_cost": 4500,
+      "in_stock": 5
+    }
   ]
 }
