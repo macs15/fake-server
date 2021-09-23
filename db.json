@@ -113,6 +113,16 @@
       "poster": "http://localhost:3001/cursos/go-ssr"
     }
   ],
+  "historical-stock": [
+    {
+      "id": 1,
+      "product_id": 1,
+      "transaction_type": "Entrada",
+      "total_price": 123,
+      "date": "2012-04-23T18:25:43.511Z",
+      "quantity": 100
+    }
+  ],
   "products": [
     {
       "cod": 1,
