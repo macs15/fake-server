@@ -125,70 +125,90 @@
   ],
   "products": [
     {
+      "id": 1,
       "cod": 1,
+      "name": "Smartphone Samsung",
       "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
       "category": "Eletrônico",
       "provider_cost": 1500,
       "in_stock": 500
     },
     {
+      "id": 2,
       "cod": 2,
+      "name": "Smartphone Iphone 12",
       "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
       "category": "Eletrodoméstico",
       "provider_cost": 100,
       "in_stock": 1000
     },
     {
+      "id": 3,
       "cod": 3,
+      "name": "Smartphone Xioami",
       "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
       "category": "móvel",
       "provider_cost": 750,
       "in_stock": 100
     },
     {
+      "id": 4,
       "cod": 4,
+      "name": "Samsung TV UHD 42",
       "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
       "category": "Eletrônico",
       "provider_cost": 1500,
       "in_stock": 3000
     },
     {
+      "id": 5,
       "cod": 5,
+      "name": "Notebook i7 16",
       "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
       "category": "Eletrônico",
       "provider_cost": 7500,
       "in_stock": 50
     },
     {
+      "id": 6,
       "cod": 6,
+      "name": "Assador Elétrico De Embutir",
       "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
       "category": "Eletrodoméstico",
       "provider_cost": 500,
       "in_stock": 2000
     },
     {
+      "id": 7,
       "cod": 7,
+      "name": "Duis sit amet euismod orci",
       "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
       "category": "móvel",
       "provider_cost": 750,
       "in_stock": 200
     },
     {
+      "id": 8,
       "cod": 8,
+      "name": "Duis sit amet euismod orci",
       "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
       "category": "Eletrônico",
       "provider_cost": 1500,
       "in_stock": 500
     },
     {
+      "id": 9,
       "cod": 9,
+      "name": "quis aliquet justo. Integer",
       "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
       "category": "Eletrodoméstico",
       "provider_cost": 6000,
       "in_stock": 15
     },
     {
+      "id": 10,
       "cod": 10,
+      "name": "eget hendrerit metus",
       "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
       "category": "móvel",
       "provider_cost": 4500,
