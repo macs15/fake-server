@@ -114,71 +114,69 @@
     }
   ],
   "historical-stock": [
-    [
-  {
-    "date": "2021-09-25T16:10:28.863Z",
-    "product_id": 9,
-    "transaction_type": "Saída",
-    "price_per_product": 6000,
-    "total_price": 7000,
-    "quantity": 1,
-    "id": 3
-  },
-  {
-    "date": "2021-09-25T16:10:49.628Z",
-    "product_id": 9,
-    "transaction_type": "Saída",
-    "price_per_product": 6000,
-    "total_price": 8999.9,
-    "quantity": 1,
-    "id": 4
-  },
-  {
-    "date": "2021-09-25T16:13:03.514Z",
-    "product_id": 9,
-    "transaction_type": "Entrada",
-    "price_per_product": 6000,
-    "total_price": 42000,
-    "quantity": 7,
-    "id": 5
-  },
-  {
-    "date": "2021-09-25T16:14:34.560Z",
-    "product_id": 11,
-    "transaction_type": "Entrada",
-    "price_per_product": 1550.3,
-    "total_price": 15503,
-    "quantity": 10,
-    "id": 6
-  },
-  {
-    "date": "2021-09-25T16:15:42.994Z",
-    "product_id": 11,
-    "transaction_type": "Saída",
-    "price_per_product": 1550.3,
-    "total_price": 2000,
-    "quantity": 1,
-    "id": 7
-  },
-  {
-    "date": "2021-09-25T16:16:09.699Z",
-    "product_id": 11,
-    "transaction_type": "Saída",
-    "price_per_product": 2000,
-    "total_price": 2500,
-    "quantity": 1,
-    "id": 8
-  },
-  {
-    "date": "2021-09-25T16:52:59.918Z",
-    "product_id": 1,
-    "transaction_type": "Saída",
-    "price_per_product": 1500,
-    "total_price": 8000,
-    "quantity": 4,
-    "id": 9
-  }
-]
+    {
+      "date": "2021-09-25T16:10:28.863Z",
+      "product_id": 9,
+      "transaction_type": "Saída",
+      "price_per_product": 6000,
+      "total_price": 7000,
+      "quantity": 1,
+      "id": 3
+    },
+    {
+      "date": "2021-09-25T16:10:49.628Z",
+      "product_id": 9,
+      "transaction_type": "Saída",
+      "price_per_product": 6000,
+      "total_price": 8999.9,
+      "quantity": 1,
+      "id": 4
+    },
+    {
+      "date": "2021-09-25T16:13:03.514Z",
+      "product_id": 9,
+      "transaction_type": "Entrada",
+      "price_per_product": 6000,
+      "total_price": 42000,
+      "quantity": 7,
+      "id": 5
+    },
+    {
+      "date": "2021-09-25T16:14:34.560Z",
+      "product_id": 11,
+      "transaction_type": "Entrada",
+      "price_per_product": 1550.3,
+      "total_price": 15503,
+      "quantity": 10,
+      "id": 6
+    },
+    {
+      "date": "2021-09-25T16:15:42.994Z",
+      "product_id": 11,
+      "transaction_type": "Saída",
+      "price_per_product": 1550.3,
+      "total_price": 2000,
+      "quantity": 1,
+      "id": 7
+    },
+    {
+      "date": "2021-09-25T16:16:09.699Z",
+      "product_id": 11,
+      "transaction_type": "Saída",
+      "price_per_product": 2000,
+      "total_price": 2500,
+      "quantity": 1,
+      "id": 8
+    },
+    {
+      "date": "2021-09-25T16:52:59.918Z",
+      "product_id": 1,
+      "transaction_type": "Saída",
+      "price_per_product": 1500,
+      "total_price": 8000,
+      "quantity": 4,
+      "id": 9
+    }
   ],
   "products": [
   {
