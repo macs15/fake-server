@@ -113,16 +113,7 @@
       "poster": "http://localhost:3001/cursos/go-ssr"
     }
   ],
-  "historical-stock": [
-    {
-      "id": 1,
-      "product_id": 1,
-      "transaction_type": "Entrada",
-      "total_price": 123,
-      "date": "2012-04-23T18:25:43.511Z",
-      "quantity": 100
-    }
-  ],
+  "historical-stock": [],
   "products": [
     {
       "id": 1,
@@ -174,7 +165,7 @@
     },
     {
       "id": 7,
-      "name": "Duis sit amet euismod orci",
+      "name": "Sofá 2 Lugares Tris - Amêndoa e Tecido Cru",
       "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
       "category": "furniture",
       "provider_cost": 750,
@@ -182,7 +173,7 @@
     },
     {
       "id": 8,
-      "name": "Duis sit amet euismod orci",
+      "name": "Nobreak Ts Shara Professional Universal 1800va Bivolt Usb",
       "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
       "category": "electronic",
       "provider_cost": 1500,
@@ -190,7 +181,7 @@
     },
     {
       "id": 9,
-      "name": "quis aliquet justo. Integer",
+      "name": "Liquidificador portátil Oster Osterizer Classic 1.25 L",
       "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
       "category": "appliance",
       "provider_cost": 6000,
@@ -198,7 +189,7 @@
     },
     {
       "id": 10,
-      "name": "eget hendrerit metus",
+      "name": "quidificador portátil Oster Osterizer Classic 1.25 L",
       "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
       "category": "furniture",
       "provider_cost": 4500,
