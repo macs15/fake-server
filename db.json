@@ -113,87 +113,161 @@
       "poster": "http://localhost:3001/cursos/go-ssr"
     }
   ],
-  "historical-stock": [],
+  "historical-stock": [
+    [
+  {
+    "date": "2021-09-25T16:10:28.863Z",
+    "product_id": 9,
+    "transaction_type": "Saída",
+    "price_per_product": 6000,
+    "total_price": 7000,
+    "quantity": 1,
+    "id": 3
+  },
+  {
+    "date": "2021-09-25T16:10:49.628Z",
+    "product_id": 9,
+    "transaction_type": "Saída",
+    "price_per_product": 6000,
+    "total_price": 8999.9,
+    "quantity": 1,
+    "id": 4
+  },
+  {
+    "date": "2021-09-25T16:13:03.514Z",
+    "product_id": 9,
+    "transaction_type": "Entrada",
+    "price_per_product": 6000,
+    "total_price": 42000,
+    "quantity": 7,
+    "id": 5
+  },
+  {
+    "date": "2021-09-25T16:14:34.560Z",
+    "product_id": 11,
+    "transaction_type": "Entrada",
+    "price_per_product": 1550.3,
+    "total_price": 15503,
+    "quantity": 10,
+    "id": 6
+  },
+  {
+    "date": "2021-09-25T16:15:42.994Z",
+    "product_id": 11,
+    "transaction_type": "Saída",
+    "price_per_product": 1550.3,
+    "total_price": 2000,
+    "quantity": 1,
+    "id": 7
+  },
+  {
+    "date": "2021-09-25T16:16:09.699Z",
+    "product_id": 11,
+    "transaction_type": "Saída",
+    "price_per_product": 2000,
+    "total_price": 2500,
+    "quantity": 1,
+    "id": 8
+  },
+  {
+    "date": "2021-09-25T16:52:59.918Z",
+    "product_id": 1,
+    "transaction_type": "Saída",
+    "price_per_product": 1500,
+    "total_price": 8000,
+    "quantity": 4,
+    "id": 9
+  }
+]
+  ],
   "products": [
-    {
-      "id": 1,
-      "name": "Smartphone Samsung",
-      "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
-      "category": "electronic",
-      "provider_cost": 1500,
-      "in_stock": 500
-    },
-    {
-      "id": 2,
-      "name": "Smartphone Iphone 12",
-      "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
-      "category": "appliance",
-      "provider_cost": 100,
-      "in_stock": 1000
-    },
-    {
-      "id": 3,
-      "name": "Smartphone Xioami",
-      "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
-      "category": "furniture",
-      "provider_cost": 750,
-      "in_stock": 100
-    },
-    {
-      "id": 4,
-      "name": "Samsung TV UHD 42",
-      "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
-      "category": "electronic",
-      "provider_cost": 1500,
-      "in_stock": 3000
-    },
-    {
-      "id": 5,
-      "name": "Notebook i7 16",
-      "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
-      "category": "electronic",
-      "provider_cost": 7500,
-      "in_stock": 50
-    },
-    {
-      "id": 6,
-      "name": "Assador Elétrico De Embutir",
-      "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
-      "category": "electronic",
-      "provider_cost": 500,
-      "in_stock": 2000
-    },
-    {
-      "id": 7,
-      "name": "Sofá 2 Lugares Tris - Amêndoa e Tecido Cru",
-      "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
-      "category": "furniture",
-      "provider_cost": 750,
-      "in_stock": 200
-    },
-    {
-      "id": 8,
-      "name": "Nobreak Ts Shara Professional Universal 1800va Bivolt Usb",
-      "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
-      "category": "electronic",
-      "provider_cost": 1500,
-      "in_stock": 500
-    },
-    {
-      "id": 9,
-      "name": "Liquidificador portátil Oster Osterizer Classic 1.25 L",
-      "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
-      "category": "appliance",
-      "provider_cost": 6000,
-      "in_stock": 15
-    },
-    {
-      "id": 10,
-      "name": "quidificador portátil Oster Osterizer Classic 1.25 L",
-      "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
-      "category": "furniture",
-      "provider_cost": 4500,
-      "in_stock": 5
-    }
-  ]
+  {
+    "id": 1,
+    "name": "Smartphone Samsung",
+    "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
+    "category": "electronic",
+    "provider_cost": 1500,
+    "in_stock": 496
+  },
+  {
+    "id": 2,
+    "name": "Smartphone Iphone 12",
+    "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
+    "category": "appliance",
+    "provider_cost": 100,
+    "in_stock": 1000
+  },
+  {
+    "id": 3,
+    "name": "Smartphone Xioami",
+    "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
+    "category": "furniture",
+    "provider_cost": 750,
+    "in_stock": 100
+  },
+  {
+    "id": 4,
+    "name": "Samsung TV UHD 42",
+    "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
+    "category": "electronic",
+    "provider_cost": 1500,
+    "in_stock": 3000
+  },
+  {
+    "id": 5,
+    "name": "Notebook i7 16",
+    "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
+    "category": "electronic",
+    "provider_cost": 7500,
+    "in_stock": 50
+  },
+  {
+    "id": 6,
+    "name": "Assador Elétrico De Embutir",
+    "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
+    "category": "electronic",
+    "provider_cost": 500,
+    "in_stock": 2000
+  },
+  {
+    "id": 7,
+    "name": "Sofá 2 Lugares Tris - Amêndoa e Tecido Cru",
+    "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
+    "category": "furniture",
+    "provider_cost": 750,
+    "in_stock": 200
+  },
+  {
+    "id": 8,
+    "name": "Nobreak Ts Shara Professional Universal 1800va Bivolt Usb",
+    "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
+    "category": "electronic",
+    "provider_cost": 1500,
+    "in_stock": 500
+  },
+  {
+    "id": 9,
+    "name": "Liquidificador portátil Oster Osterizer Classic 1.25 L",
+    "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
+    "category": "appliance",
+    "provider_cost": 6000,
+    "in_stock": 20
+  },
+  {
+    "name": "Liquidificador portátil Oster Osterizer Classic 1.25 L",
+    "description": "Duis sit amet euismod orci, quis aliquet justo. Integer ultricies ac sem eget maximus. Nunc quis arcu accumsan, accumsan urna eget, hendrerit metus.",
+    "category": "furniture",
+    "provider_cost": 4500,
+    "in_stock": 3,
+    "id": 10
+  },
+  {
+    "category": "electronic",
+    "name": "Redmi Note 8",
+    "description": "O Redmi Note 8 é um smartphone Android de bom nível, ótimo para fotos, que pode satisfazer até o mais exigente dos usuários. Tem uma enorme tela Touchscreen de 6.3 polegadas com uma resolução de 2340x1080 pixel.",
+    "provider_cost": 2000,
+    "in_stock": 8,
+    "id": 11
+  }
+]
 }
